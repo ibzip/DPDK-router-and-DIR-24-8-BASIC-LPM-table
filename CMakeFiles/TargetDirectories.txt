@@ -1,0 +1,5 @@
+/root/framework/CMakeFiles/rebuild_cache.dir
+/root/framework/CMakeFiles/router.dir
+/root/framework/CMakeFiles/fwd.dir
+/root/framework/CMakeFiles/table-test.dir
+/root/framework/CMakeFiles/edit_cache.dir

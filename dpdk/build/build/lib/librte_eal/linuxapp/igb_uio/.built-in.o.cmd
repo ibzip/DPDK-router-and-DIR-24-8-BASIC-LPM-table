@@ -1,0 +1,1 @@
+cmd_/root/framework/dpdk/build/build/lib/librte_eal/linuxapp/igb_uio/built-in.o :=  rm -f /root/framework/dpdk/build/build/lib/librte_eal/linuxapp/igb_uio/built-in.o; ar rcsD /root/framework/dpdk/build/build/lib/librte_eal/linuxapp/igb_uio/built-in.o
